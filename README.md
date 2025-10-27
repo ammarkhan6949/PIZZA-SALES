@@ -57,6 +57,6 @@ Peak Order Hours
 👨‍💻 Author
 
 # Ammar Khan
-📧 ammarkhan6949@gmail.com
- LinkedIn
+ ammarkhan6949@gmail.com
+
  Delhi India
