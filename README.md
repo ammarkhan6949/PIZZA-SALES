@@ -42,3 +42,21 @@ CTE and Subqueries
 Date and Time functions
 
 LIMIT, DISTINCT, ROUND()
+
+# Key Insights
+
+Highest Sales Day
+
+Best Selling Pizza
+
+ Total Revenue Generated
+
+Peak Order Hours
+
+ Most Popular Pizza Size
+👨‍💻 Author
+
+# Ammar Khan
+📧 ammarkhan6949@gmail.com
+ LinkedIn
+ Delhi India
