@@ -2,6 +2,8 @@
 # Project Overview
 
 This project focuses on analyzing pizza sales data using SQL to extract actionable business insights. The goal is to identify sales trends, customer preferences, and performance metrics that can help improve business decision making.
+
+
 **PDF LINK** [PIZZA SALES GIT_compressed.pdf](https://github.com/user-attachments/files/23160677/PIZZA.SALES.GIT_compressed.pdf)
 
 # Objectives
